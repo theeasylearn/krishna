@@ -1,0 +1,41 @@
+decision making excercise. (only if and else)
+
+Write a Python program to guess a number between 1 to 9. if user guess correct number prompt message you are right 
+
+Write a Python program to accept two numbers from user if both number are divisible by two then print message both numbers are divisible by two otherwise print message both number are not divisible by two. 
+
+Write a Python program to accept three rectnagle dimensions from user(width & length) and find out and print which rectnagle is largest.
+
+Write a Python program to accept three cyliender dimensions from user(radius and height) and find out and print which cyliender has least volume.
+
+Write a Python program to create two list (size of each list must be 5) by taking input from user. if both list are same (each and every value in both list are same) then print message both list are same otherwise print both list are not same 
+
+Write a Python program to create two list (size of each list must be 5). by taking input from user. find out total of both list and print which list's total is largest. 
+
+Write a Python program to calculate final electricity bill based upon below given critarea 
+
+units           price  per unit 
+<100            1
+>100 & <200     2 
+>200 & <300     3
+>300 & <400     4
+>400            5
+
+also calculate 5% percentage energy charge on total bill amount & display net bill amount 
+----------------------------------------------------------------------------
+Write a Python program to calculate income tax, gross income, net income from monthly income given by user 
+
+yearly income     tax rate
+<3,00,000         5%  
+
+>=3,00,000
+<5,00,000         10%  
+
+>=5,00,000
+<8,00,000         20%
+
+>=8,00,000        30%  
+
+--------------------------------------------------
+Write a program to display zodiac symbol of given zodic sign from given date and month as per following criteria.
+https://in.pinterest.com/pin/81698180718875314/
